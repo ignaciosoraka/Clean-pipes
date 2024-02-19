@@ -409,8 +409,10 @@ video::-webkit-media-controls {
   margin-top: 25px;
 }
 
-
-
+.bomba{
+  padding: 10px 0px;
+  box-shadow: none;
+}
 /*
 =======================
 ----- segundo SLIDE -----
